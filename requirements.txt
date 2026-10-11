@@ -1,0 +1,6 @@
+transformers
+datasets
+huggingface_hub
+accelerate
+scikit-learn
+matplotlib
