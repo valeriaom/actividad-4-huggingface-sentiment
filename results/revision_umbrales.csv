@@ -1,0 +1,4 @@
+Modelo,F1_macro,Recall_NEG,Cumple_F1,Cumple_Recall_NEG,Cumple_umbral_prototipo
+NLP Town mBERT,0.7153148638553547,0.841,True,True,True
+RoBERTuito,0.6190585046990007,0.7815,False,True,False
+XLM-R Twitter,0.5882011431767787,0.826,False,True,False
